@@ -69,7 +69,7 @@ Param(
 	$tag,
 	
 	# Max retries to get image scan summary from ASC.
-	$scanExtractionRetryCount = 3,
+	$scanExtractionRetryCount = 5,
 	
 	# Medium servrity findings failure threshold
 	$mediumFindingsCountFailThreshold = 5,
